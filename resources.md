@@ -39,3 +39,33 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+# Online Course
+ 1. [https://freecodecamp.com](FreeCodeCamp)
+ 2. [https://codecademy.com](Codecademy)
+ 3. [https://udemy.com](Udemy)
+ 4. [https://www.dicoding.com/academies](Dicoding)
+ 5. [https://www.theodinproject.com/courses?ref=homenav](Odin Project)
+
+# Coding Challenge
+ 1. [https://hackerrank.com](HackerRank)
+ 2. [https://hackerearth.com](HackerEarth)
+ 3. [https://training-ia.toki.org](TOKI) (Indonesian Site)
+
+# Projects and Ideas
+ 1. [https://github.com/gothinkster/realworld](Real World Projects)
+ 2. [https://github.com/karan/Projects](List Projects)
+ 3. [https://github.com/tuvtran/project-based-learning](Project Based Learning)
+ 4. [https://github.com/danistefanovic/build-your-own-x](Build Your Own-X)
+
+
+# Style Guide
+ 1. [https://github.com/mbeaudru/modern-js-cheatsheet](Modern Js Cheatsheet)
+
+# List of Online Course
+ 1. [https://hackr.io/](Hackr)
+ 2. [http://www.quickcode.co/](Quick Code)
+ 3. [https://zeef.com/](Zeef)
+
+# Youtube Channel
+*Coming Soon*
