@@ -41,31 +41,34 @@
 * [Resources](resources.md)
 
 # Online Course
- 1. [https://freecodecamp.com](FreeCodeCamp)
- 2. [https://codecademy.com](Codecademy)
- 3. [https://udemy.com](Udemy)
- 4. [https://www.dicoding.com/academies](Dicoding)
- 5. [https://www.theodinproject.com/courses?ref=homenav](Odin Project)
+ 1. [FreeCodeCamp](https://freecodecamp.com)
+ 2. [Codecademy](https://codecademy.com)
+ 3. [Udemy](https://udemy.com)
+ 4. [Dicoding](https://www.dicoding.com/academies)
+ 5. [Odin Project](https://www.theodinproject.com/courses)
 
 # Coding Challenge
- 1. [https://hackerrank.com](HackerRank)
- 2. [https://hackerearth.com](HackerEarth)
- 3. [https://training-ia.toki.org](TOKI) (Indonesian Site)
+ 1. [HackerRank](https://hackerrank.com)
+ 2. [HackerEarth](https://hackerearth.com)
+ 3. [TOKI](https://training-ia.toki.org) (Indonesian Site)
 
 # Projects and Ideas
- 1. [https://github.com/gothinkster/realworld](Real World Projects)
- 2. [https://github.com/karan/Projects](List Projects)
- 3. [https://github.com/tuvtran/project-based-learning](Project Based Learning)
- 4. [https://github.com/danistefanovic/build-your-own-x](Build Your Own-X)
+ 1. [Real World Projects](https://github.com/gothinkster/realworld)
+ 2. [List Projects](https://github.com/karan/Projects)
+ 3. [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+ 4. [Build Your Own-X](https://github.com/danistefanovic/build-your-own-x)
 
 
 # Style Guide
- 1. [https://github.com/mbeaudru/modern-js-cheatsheet](Modern Js Cheatsheet)
+ 1. [Modern Js Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 # List of Online Course
- 1. [https://hackr.io/](Hackr)
- 2. [http://www.quickcode.co/](Quick Code)
- 3. [https://zeef.com/](Zeef)
+ 1. [Hackr](https://hackr.io/)
+ 2. [Quick Code](http://www.quickcode.co/)
+ 3. [Zeef](https://zeef.com/)
+
+# Github Awesomes
+ 1. [Professional programmer](https://github.com/charlax/professional-programming)
 
 # Youtube Channel
 *Coming Soon*

@@ -19,7 +19,13 @@
 
 ### Day 2 - 20 Januari 2019
 
-**Today's Progress**:
+**Today's Progress**: Today, I'm learning javascript es6
 
-**Thoughts:**:
+**Thoughts:**:  to prepare learning react & vue.
+
+### Day 3 - 22 Januari 2019
+
+**Today's Progress**: Today, I'm reading the example code
+
+**Thoughts:**:  to explore more code.
 
