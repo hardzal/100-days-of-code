@@ -29,3 +29,11 @@
 
 **Thoughts:**:  to explore more code.
 
+---
+
+### Day 0 - 10 Desember 2019
+
+**Today's Progress**: 
+    Today, I'm starting again 100DaysOfCode!.
+    Well, Today i'm learning VueJs and Laravel.
+
